@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/daima/clion_st/f103c8t6/Rectangular_wave/Rectangular_wave/Core/Startup/startup_stm32f103c8tx.s
+
